@@ -1,6 +1,6 @@
 {
   "name": "egg-cute-i18n",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "cute i18n for egg",
   "eggPlugin": {
     "name": "cuteI18n"

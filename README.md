@@ -25,7 +25,7 @@ exports.cuteI18n = {
 ```js
 // config/config.default.js
 exports.cuteI18n = {
-  // 默认语言，默认 "en_US"
+  // 默认语言，默认 "en-US"
   defaultLocale: 'zh-CN',
   // URL 参数，默认 "locale"
   queryField: 'locale',
